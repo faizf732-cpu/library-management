@@ -185,3 +185,41 @@ Jenkins -- Username : Faiz_jen
 bd4dfe1014cc4c13a7055342b4204237
 
 git push -u origin main
+
+
+
+
+Pipelines:
+
+pipeline {
+    agent any
+    # runs pipeline on any available agent/node
+
+    stages {
+
+        stage('Build') {
+            # Build stage
+            steps {
+                echo 'Build Stage Running'
+                # prints message to console (used for testing pipeline)
+            }
+        }
+
+        stage('Test') {
+            # Test stage
+            steps {
+                echo 'Test Stage Running'
+                # prints message to console (used to simulate testing)
+            }
+        }
+
+        stage('Deploy') {
+            # Deploy stage
+            steps {
+                echo 'Deploy Stage Running'
+                # prints message to console (used to simulate deployment)
+            }
+        }
+
+    }
+}
