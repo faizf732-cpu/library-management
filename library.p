@@ -2,7 +2,24 @@ python Got it — you want each program to be ~30–40 lines, more detailed (exa
 
 I’ll give you 5 full programs now (each ~30–40 lines). If you want, I’ll continue the remaining 10 in the next message.
 
+PYTHON PROGRAM INDEX (15 Topics)
+📌 Real World Mini Projects List
 
+Library Management System
+Student Grading System
+ATM Banking System
+Contact Book Management
+To-Do List Manager
+Online Shopping Cart System
+Login & Registration System
+Bus Ticket Booking System
+Quiz (MCQ) System
+Notes Saving App (File Handling)
+Employee Salary Management System
+Password Strength Checker
+Electricity Bill Calculator
+Attendance Management System
+Restaurant Order Billing System
 ---
 
 ✅ 1. Library Management System (≈35 lines)
