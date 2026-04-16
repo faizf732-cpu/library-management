@@ -3,7 +3,24 @@ Java  having both Python + Java versions gives you a big advantage in lab exams 
 I’ll give you 5 real-world Java programs (each ~30–40 lines, menu-based, exam-ready). If you want, I’ll continue 
 
 
+JAVA PROGRAM INDEX (15 Topics)
+📌 Real World Mini Projects List
 
+Library Management System
+Student Grading System
+ATM Banking System
+Bus Ticket Booking System
+Shopping Cart System
+Contact Book System
+To-Do List Manager
+Quiz System (MCQ)
+Employee Salary Management System
+Notes App (File Handling)
+Electricity Bill Calculator
+Attendance Management System
+Restaurant Order System
+Password Strength Checker
+Prime Number Checker
 
 ✅ 1. Library Management System (Java)
 
