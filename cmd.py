@@ -16,12 +16,42 @@ public class App {
     
 }
 
+package com.example;
+
+public class App {
+
+    public int add(int a, int b) {
+        return a + b;
+    }
+
+    public static void main(String[] args) {
+        App obj = new App();
+        System.out.println(obj.add(2, 3));
+    }
+}
+
+
 AppTest.java
 package test.java.com.example;
 
 public class AppTest {
     
 }
+
+package com.example;
+
+import org.junit.Test;
+import static org.junit.Assert.*;
+
+public class AppTest {
+
+    @Test
+    public void testAdd() {
+        App obj = new App();
+        assertEquals(5, obj.add(2, 3));
+    }
+}
+
 
 POM.XML:
 
