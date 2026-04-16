@@ -21,4 +21,7 @@ git commit -m "Initial commit"
 git branch -M main
 git remote remove origin
 git remote add origin https://github.com/yourusername/maven-project.git
+
+Jenkins -- Username : Faiz_jen
+bd4dfe1014cc4c13a7055342b4204237
 git push -u origin main
