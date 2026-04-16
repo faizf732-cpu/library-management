@@ -9,6 +9,41 @@ Run cm as administrator
 
 Maven
 
+App.java:
+package main.java.com.example;
+
+public class App {
+    
+}
+
+AppTest.java
+package test.java.com.example;
+
+public class AppTest {
+    
+}
+
+POM.XML:
+
+<project xmlns="http://maven.apache.org/POM/4.0.0">
+    <modelVersion>4.0.0</modelVersion>
+
+    <groupId>com.example</groupId>
+    <artifactId>maven-project</artifactId>
+    <version>1.0-SNAPSHOT</version>
+
+    <dependencies>
+        <dependency>
+            <groupId>junit</groupId>
+            <artifactId>junit</artifactId>
+            <version>4.13.2</version>
+            <scope>test</scope>
+        </dependency>
+    </dependencies>
+</project>
+https://github.com/faizf732-cpu/maven-projectf.git
+
+
 dir
 
 git remote -v
